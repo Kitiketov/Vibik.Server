@@ -48,7 +48,6 @@ API недоступно для использования.
 
 * **Толканюк Екатерина** - проектирование и реализация REST API - [Jlychee](https://github.com/Jlychee)
 * **Скворок Артем** - проектирование схемы, запросы, интеграция с PostgreSQL - [fan4cz](https://github.com/fan4cz)
-* **Котов Илья** - реализация JWT-аутентификации - [Kitiketov](https://github.com/Kitiketov)
-
+* **Котов Илья** - реализация JWT-аутентификации, панель модерации [ModeratorPanel](https://github.com/Kitiketov/Vibik.ModeratorPanel) - [Kitiketov](https://github.com/Kitiketov)
 * **Кискина Арина** - реализация пользовательского интерфейса и взаимодействия с API - [reqied](https://github.com/reqied) (эта часть приложения [здесь](https://github.com/Kitiketov/Vibik))
 
